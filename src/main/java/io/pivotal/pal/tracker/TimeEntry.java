@@ -3,6 +3,7 @@ package io.pivotal.pal.tracker;
 import java.time.LocalDate;
 import java.util.Objects;
 
+// Prepared before day 3 class
 public class TimeEntry {
     private final long id;
     private final long projectId;
